@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-j-aragon/static/css/main.341c6894.css",
-    "main.js": "/portfolio-j-aragon/static/js/main.49550eba.js",
+    "main.css": "/portfolio-j-aragon/static/css/main.28871a2d.css",
+    "main.js": "/portfolio-j-aragon/static/js/main.ee2653f6.js",
     "static/js/787.261903c8.chunk.js": "/portfolio-j-aragon/static/js/787.261903c8.chunk.js",
     "static/media/proj5.png": "/portfolio-j-aragon/static/media/proj5.b47c2007117648db1991.png",
     "static/media/proj2.png": "/portfolio-j-aragon/static/media/proj2.cbd85870fd625b425610.png",
@@ -10,12 +10,12 @@
     "static/media/proj3.png": "/portfolio-j-aragon/static/media/proj3.fcdf20f97e57f502b9de.png",
     "static/media/FuturaLT-HeavyOblique.ttf": "/portfolio-j-aragon/static/media/FuturaLT-HeavyOblique.077da086a49732631243.ttf",
     "index.html": "/portfolio-j-aragon/index.html",
-    "main.341c6894.css.map": "/portfolio-j-aragon/static/css/main.341c6894.css.map",
-    "main.49550eba.js.map": "/portfolio-j-aragon/static/js/main.49550eba.js.map",
+    "main.28871a2d.css.map": "/portfolio-j-aragon/static/css/main.28871a2d.css.map",
+    "main.ee2653f6.js.map": "/portfolio-j-aragon/static/js/main.ee2653f6.js.map",
     "787.261903c8.chunk.js.map": "/portfolio-j-aragon/static/js/787.261903c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.341c6894.css",
-    "static/js/main.49550eba.js"
+    "static/css/main.28871a2d.css",
+    "static/js/main.ee2653f6.js"
   ]
 }
