@@ -66,9 +66,9 @@ h2.bio-title{
 .profile-pic{
   display: flex;
   float: left;
-  margin-left: 24rem;
-  width: 21.574rem;
-  height: 30rem;
+  padding: 1rem;
+  width: 14rem;
+  height: 20rem;
   border-radius: 40%;
 }
 
